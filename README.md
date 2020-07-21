@@ -2,7 +2,6 @@
 
 This project is seen in demos including the Pluralsight course "Vue: Getting Started" to help represent a fundamental app written with Vue. The heroes and villains theme is used throughout the app.
 
-by
 
 ## Projects
 
@@ -40,6 +39,3 @@ This repository contains several projects. Each project represents a step in the
    ```
 
 ## Problems or Suggestions
-
-[Open an issue here](/issues)
-
