@@ -14,7 +14,7 @@ This repository contains several projects. Each project represents a step in the
 ## Quick Start
 
 1. Clone this repository
-
+" This reposotery is for learning " --PluralSight--
    ```bash
    git clone https://github.com/*****/vue-getting-started.git
    cd vue-getting-started
