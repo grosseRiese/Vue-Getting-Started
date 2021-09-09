@@ -16,7 +16,7 @@ This repository contains several projects. Each project represents a step in the
 1. Clone this repository
 " This repository is for learning " --PluralSight--
    ```bash
-   git clone https://github.com/*****/vue-getting-started.git
+   *****
    cd vue-getting-started
    ```
 
